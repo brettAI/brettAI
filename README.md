@@ -13,5 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/vscode.svg" />
+### Languages and Tools
+
+[<img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/vscode.svg" />][website]
+[<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/python.png" />][website]
+[<img align="left" alt="Django" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/django.png" />][website]
+[<img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/html5.png" />][website]
+[<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/css3.png" />][website]
+Sass
+[<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/Javascript.png" />][website]
+[<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/react.png" />][website]
+[<img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/nodejs.png" />][website]
+[<img align="left" alt="tailwindcss" width="25px" src="https://raw.githubusercontent.com/brettAI/brettAI/d7d71a0b8336c69d699981a2993bb06915723fe0/icons/tailwind-css.png" />][website]
+
+[website]: https://brettAI.com
